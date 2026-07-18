@@ -81,7 +81,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=cython&custom_language_colors=javascript:F7DF1E,python:4B8BBE,typescript:3178C6,c:A8B9CC&v=2" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=cython,c&custom_language_colors=javascript:F7DF1E,python:4B8BBE,typescript:9C27B0,html:E34F26,java:ED8B00&v=3" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 
