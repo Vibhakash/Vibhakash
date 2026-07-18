@@ -9,7 +9,7 @@
   <tr>
     <td width="35%" align="center" valign="middle">
       <!-- Your pasted profile image -->
-      <img src="assets/header_profile.png" alt="Profile Artwork" width="100%" style="border-radius: 15px; border: 2px solid #00D4FF; box-shadow: 0 0 10px #00D4FF;" />
+      <img src="./assets/header_profile.png" alt="Profile Artwork" width="100%" style="border-radius: 15px; border: 2px solid #00D4FF; box-shadow: 0 0 10px #00D4FF;" />
     </td>
     <td width="65%" align="center" valign="middle">
       <!-- Typing Animation -->
@@ -81,14 +81,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=cython&custom_language_colors=javascript:F7DF1E,python:4B8BBE,typescript:3178C6,c:A8B9CC&v=2" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="assets/ai_network.png" alt="AI Neural Network" style="border-radius: 15px;" width="100%" />
+  <img src="./assets/ai_network.png" alt="AI Neural Network" style="border-radius: 15px;" width="100%" />
 </div>
 <br/>
 
