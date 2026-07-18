@@ -12,6 +12,9 @@
 <a href="https://linkedin.com/in/vibha-kashyap-b89517313"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:kashyapvib@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=Vibhakash&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Open%20To%20Opportunities-YES-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities" />
 
 </div>
 
@@ -24,6 +27,7 @@
 *   🧠 Deeply interested in **LLMs, RAG, Prompt Engineering**, and building **Agentic AI workflows**.
 *   🏆 **3x Hackathon Winner** (including NASSCOM National Hackathon & IBM Mindscape).
 *   🌱 Always learning new technologies and exploring real-world AI applications.
+*   💼 **Open to exciting opportunities** in Software Engineering and AI/ML roles.
 
 ---
 
@@ -64,12 +68,12 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhakash&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Vibhakash&theme=github-dark&hide_border=true" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=github_dark&hide_border=true" width="60%" />
 </div>
 
 ---
