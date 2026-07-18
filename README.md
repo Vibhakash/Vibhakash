@@ -65,16 +65,16 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vibhakash&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vibhakash&theme=github_dark" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vibhakash&theme=github_dark" width="60%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Vibhakash&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
