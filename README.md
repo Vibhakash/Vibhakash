@@ -9,7 +9,7 @@
   <tr>
     <td width="35%" align="center" valign="middle">
       <!-- Your pasted profile image -->
-      <img src="./assets/header_profile.png" alt="Profile Artwork" width="100%" style="border-radius: 15px; border: 2px solid #00D4FF; box-shadow: 0 0 10px #00D4FF;" />
+      <img src="assets/header_profile.png" alt="Profile Artwork" width="100%" style="border-radius: 15px; border: 2px solid #00D4FF; box-shadow: 0 0 10px #00D4FF;" />
     </td>
     <td width="65%" align="center" valign="middle">
       <!-- Typing Animation -->
@@ -77,18 +77,18 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=tokyonight&hide_border=true&v=1&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&v=1&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="./assets/ai_network.png" alt="AI Neural Network" style="border-radius: 15px;" width="100%" />
+  <img src="assets/ai_network.png" alt="AI Neural Network" style="border-radius: 15px;" width="100%" />
 </div>
 <br/>
 
