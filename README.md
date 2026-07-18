@@ -3,18 +3,27 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Vibha%20Kashyap&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=22&descColor=00d4ff" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%A4%96+Building+Intelligent+AI%2FML+Solutions;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+3x+Hackathon+Winner;%F0%9F%9A%80+Passionate+About+Agentic+Workflows" alt="Feature typing animation" />
-
 <br/>
 
-<!-- Badges -->
-<a href="https://linkedin.com/in/vibha-kashyap-b89517313"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kashyapvib@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Vibhakash&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/Open%20To%20Opportunities-YES-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities" />
+<table align="center" style="border: none;">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <!-- Your pasted profile image -->
+      <img src="./assets/header_profile.png" alt="Profile Artwork" width="100%" style="border-radius: 15px; border: 2px solid #00D4FF; box-shadow: 0 0 10px #00D4FF;" />
+    </td>
+    <td width="65%" align="center" valign="middle">
+      <!-- Typing Animation -->
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%A4%96+Building+Intelligent+AI%2FML+Solutions;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+3x+Hackathon+Winner;%F0%9F%9A%80+Passionate+About+Agentic+Workflows" alt="Feature typing animation" />
+      <br/><br/>
+      <!-- Badges -->
+      <a href="https://linkedin.com/in/vibha-kashyap-b89517313"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="mailto:kashyapvib@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      <img src="https://komarev.com/ghpvc/?username=Vibhakash&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Open%20To%20Opportunities-YES-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -68,12 +77,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Vibhakash&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=tokyonight&hide_border=true&v=1&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=tokyonight&hide_border=true&v=1&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </p>
 
 ---
