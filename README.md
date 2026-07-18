@@ -68,12 +68,12 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibhakash&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Vibhakash&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&currStreakLabel=00D4FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vibhakash&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vibhakash&theme=github_dark" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vibhakash&theme=github_dark" width="60%" />
 </div>
 
 ---
@@ -94,13 +94,6 @@
 | **[NavAIgator](https://github.com/Vibhakash/NavAIgator)** | Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for route optimization. | `AI`, `Web Development` |
 
 > 💡 *Check out my repositories for more detailed READMEs, architectures, and live demos!*
-
----
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=85" alt="Hackathon Coding" style="border-radius: 15px;" width="100%" />
-</div>
-<br/>
 
 ## 💼 Experience & Achievements
 
