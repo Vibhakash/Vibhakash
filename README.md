@@ -98,8 +98,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vibhakash/Vibhakash/output/github-contribution-grid-snake-custom.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vibhakash/Vibhakash/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vibhakash/Vibhakash/blob/output/github-contribution-grid-snake-custom.svg?raw=true" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Vibhakash/Vibhakash/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%" />
   </picture>
 </div>
 
