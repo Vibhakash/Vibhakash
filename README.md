@@ -45,40 +45,39 @@
 <div align="center">
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,js,sql&theme=dark" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Full-Stack & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=api&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs_%26_RAG-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" />
-</p>
+### AI/ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
+![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval--Augmented_Generation_(RAG)-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
 
 ### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools and Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS (EC2)](https://img.shields.io/badge/AWS_(EC2)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -94,6 +93,15 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=radical&hide_border=true&count_private=true&hide=typescript,cython,c&v=5" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vibhakash/Vibhakash/output/dist/github-contribution-grid-snake-custom.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vibhakash/Vibhakash/output/dist/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
