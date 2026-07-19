@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=250&section=header&text=Vibha%20Kashyap&fontSize=80&fontColor=ff79c6&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=22&descColor=8be9fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Vibha%20Kashyap&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=22&descColor=00d4ff" width="100%"/>
 
 <br/>
 
@@ -9,18 +9,18 @@
   <tr>
     <td width="35%" align="center" valign="middle">
       <!-- Your pasted profile image -->
-      <img src="./assets/header_profile.png" alt="Profile Artwork" width="100%" style="border-radius: 15px; border: 2px solid #ff79c6; box-shadow: 0 0 10px #ff79c6;" />
+      <img src="./assets/header_profile.png" alt="Profile Artwork" width="100%" style="border-radius: 15px; border: 2px solid #00D4FF; box-shadow: 0 0 10px #00D4FF;" />
     </td>
     <td width="65%" align="center" valign="middle">
       <!-- Typing Animation -->
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=ff79c6&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%A4%96+Building+Intelligent+AI%2FML+Solutions;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+3x+Hackathon+Winner;%F0%9F%9A%80+Passionate+About+Agentic+Workflows" alt="Feature typing animation" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%A4%96+Building+Intelligent+AI%2FML+Solutions;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+3x+Hackathon+Winner;%F0%9F%9A%80+Passionate+About+Agentic+Workflows" alt="Feature typing animation" />
       <br/><br/>
       <!-- Badges -->
       <a href="https://linkedin.com/in/vibha-kashyap-b89517313"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       <a href="mailto:kashyapvib@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-      <img src="https://komarev.com/ghpvc/?username=Vibhakash&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=Vibhakash&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Open%20To%20Opportunities-YES-bd93f9?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities" />
+      <img src="https://img.shields.io/badge/Open%20To%20Opportunities-YES-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities" />
     </td>
   </tr>
 </table>
@@ -45,30 +45,40 @@
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,sql&theme=dark" />
+</p>
 
 ### Full-Stack & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
 ### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-7C3AED?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs_%26_RAG-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" />
+</p>
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+### Tools and Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
 </div>
 
@@ -81,18 +91,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhakash&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=radical&hide_border=true&count_private=true&hide=cython,c&v=5" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=radical&hide_border=true&count_private=true&hide=typescript,cython,c&v=5" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vibhakash/Vibhakash/output/dist/github-contribution-grid-snake-custom.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vibhakash/Vibhakash/output/dist/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
 
 ---
 
@@ -140,7 +141,7 @@
 <div align="center">
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
