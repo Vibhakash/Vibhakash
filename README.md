@@ -34,7 +34,7 @@
 *   🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning** at BNM Institute of Technology (CGPA: 9.5/10)
 *   💻 Currently an **AI Engineer Intern** at Matrix Maven, building compliance intelligence platforms.
 *   🧠 Deeply interested in **LLMs, RAG, Prompt Engineering**, and building **Agentic AI workflows**.
-*   🏆 **3x Hackathon Winner** (including NASSCOM National Hackathon & IBM Mindscape).
+*   🏆 **4x Hackathon Winner** (including NASSCOM National Hackathon & IBM Mindscape).
 *   🌱 Always learning new technologies and exploring real-world AI applications.
 *   💼 **Open to exciting opportunities** in Software Engineering and AI/ML roles.
 
