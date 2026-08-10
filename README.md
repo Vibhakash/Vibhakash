@@ -21,6 +21,11 @@
       <img src="https://komarev.com/ghpvc/?username=Vibhakash&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Open%20To%20Opportunities-YES-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities" />
+      <div align="center">
+        <a href="./Vibha_Kashyap_Resume.pdf">
+        <img src="https://img.shields.io/badge/View_My_Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -29,11 +34,7 @@
 
 ---
 
-<div align="center">
-  <a href="./Vibha_Kashyap_Resume.pdf">
-    <img src="https://img.shields.io/badge/View_My_Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume" />
-  </a>
-</div>
+
 
 <br/>
 
