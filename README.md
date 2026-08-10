@@ -118,13 +118,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **[ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform.git)** | Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, and intelligent threat detection. | `FastAPI`, `Next.js`, `PostgreSQL`, `Docker`, `Redis` |
-| **[ProjectPulse](https://github.com/Vibhakash/ProjectPulse)** | Intelligent project health reporting agent leveraging deterministic RAG status scoring and LLM sentiment analysis. | `Python`, `React`, `LLMs` |
-| **[MedVault](https://github.com/Vibhakash/MedVault)** | Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction. | `FastAPI`, `Next.js`, `NLP`, `OpenCV` |
-| **[ClimaX](https://github.com/Vibhakash/ClimaX)** | AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). | `Machine Learning`, `FastAPI` |
-| **[NavAIgator](https://github.com/Vibhakash/NavAIgator)** | Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for route optimization. | `AI`, `Web Development` |
+| Project | Domain | Description | Technologies |
+| :--- | :--- | :--- | :--- |
+| **[ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform.git)** | Cybersecurity | Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, and intelligent threat detection. | `FastAPI`, `Next.js`, `PostgreSQL`, `Docker`, `Redis` |
+| **[ProjectPulse](https://github.com/Vibhakash/ProjectPulse)** | Project Management | Intelligent project health reporting agent leveraging deterministic RAG status scoring and LLM sentiment analysis. | `Python`, `React`, `LLMs` |
+| **[MedVault](https://github.com/Vibhakash/MedVault)** | Healthcare | Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction. | `FastAPI`, `Next.js`, `NLP`, `OpenCV` |
+| **[ClimaX](https://github.com/Vibhakash/ClimaX)** | Climate & Disaster Management | AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). | `Machine Learning`, `FastAPI` |
+| **[NavAIgator](https://github.com/Vibhakash/NavAIgator)** | Maritime Transportation | Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for route optimization. | `AI`, `Web Development` |
 
 > 💡 *Check out my repositories for more detailed READMEs, architectures, and live demos!*
 
