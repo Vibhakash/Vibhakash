@@ -13,7 +13,7 @@
     </td>
     <td width="65%" align="center" valign="middle">
       <!-- Typing Animation -->
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%A4%96+Building+Intelligent+AI%2FML+Solutions;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+3x+Hackathon+Winner;%F0%9F%9A%80+Passionate+About+Agentic+Workflows" alt="Feature typing animation" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%A4%96+Building+Intelligent+AI%2FML+Solutions;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+4x+Hackathon+Winner;%F0%9F%9A%80+Passionate+About+Agentic+Workflows" alt="Feature typing animation" />
       <br/><br/>
       <!-- Badges -->
       <a href="https://linkedin.com/in/vibha-kashyap-b89517313"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -28,6 +28,14 @@
 </div>
 
 ---
+
+<div align="center">
+  <a href="./Vibha_Kashyap_Resume.pdf">
+    <img src="https://img.shields.io/badge/View_My_Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume" />
+  </a>
+</div>
+
+<br/>
 
 ## 💫 About Me
 
