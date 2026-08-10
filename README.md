@@ -120,7 +120,7 @@
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform.git)** | Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, and intelligent threat detection. | `FastAPI`, `Next.js`, `PostgreSQL` |
+| **[ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform.git)** | Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, and intelligent threat detection. | `FastAPI`, `Next.js`, `PostgreSQL`, `Docker`, `Redis` |
 | **[ProjectPulse](https://github.com/Vibhakash/ProjectPulse)** | Intelligent project health reporting agent leveraging deterministic RAG status scoring and LLM sentiment analysis. | `Python`, `React`, `LLMs` |
 | **[MedVault](https://github.com/Vibhakash/MedVault)** | Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction. | `FastAPI`, `Next.js`, `NLP`, `OpenCV` |
 | **[ClimaX](https://github.com/Vibhakash/ClimaX)** | AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). | `Machine Learning`, `FastAPI` |
