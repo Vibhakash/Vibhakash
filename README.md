@@ -55,10 +55,9 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Full-Stack & Backend
@@ -120,11 +119,11 @@
 
 | Project | Domain | Description | Technologies |
 | :--- | :--- | :--- | :--- |
-| **[ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform.git)** | Cybersecurity | Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, and intelligent threat detection. | `FastAPI`, `Next.js`, `PostgreSQL`, `Docker`, `Redis` |
-| **[ProjectPulse](https://github.com/Vibhakash/ProjectPulse)** | Project Management | Intelligent project health reporting agent leveraging deterministic RAG status scoring and LLM sentiment analysis. | `Python`, `React`, `LLMs` |
-| **[MedVault](https://github.com/Vibhakash/MedVault)** | Healthcare | Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction. | `FastAPI`, `Next.js`, `NLP`, `OpenCV` |
-| **[ClimaX](https://github.com/Vibhakash/ClimaX)** | Climate & Disaster Management | AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). | `Machine Learning`, `FastAPI` |
-| **[NavAIgator](https://github.com/Vibhakash/NavAIgator)** | Maritime Transportation | Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for route optimization. | `AI`, `Web Development` |
+| **[ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform-HackDevengers-1.0)** | Cybersecurity | Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, AI Copilot, and attack-to-defense sandbox replay. | `FastAPI`, `React`, `TypeScript`, `PostgreSQL`, `Redis`, `Docker` |
+| **[ProjectPulse](https://github.com/Vibhakash/ProjectPulse-AI-Project-health-reporting-agent-with-RAG-status-system)** | Project Management | Intelligent project health reporting agent leveraging deterministic RAG status scoring, LLM sentiment analysis, and an executive PowerPoint generator. | `TypeScript`, `Python`, `FastAPI`, `React`, `LLMs` |
+| **[MedVault](https://github.com/Vibhakash/Medvault-Medical-Privacy-Protection-Pipeline-final-implementation-main)** | Healthcare | Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction. | `FastAPI`, `TypeScript`, `NLP`, `OpenCV` |
+| **[ClimaX](https://github.com/Vibhakash/ClimaX-Disaster_prediction_system)** | Climate & Disaster Management | AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). | `Python`, `Machine Learning`, `FastAPI` |
+| **[NavAIgator](https://github.com/Vibhakash/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform)** | Maritime Transportation | Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for route optimization. | `TypeScript`, `Python`, `AI` |
 
 > 💡 *Check out my repositories for more detailed READMEs, architectures, and live demos!*
 
