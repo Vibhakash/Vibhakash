@@ -121,12 +121,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform-HackDevengers-1.0)
+### 🛡️ [ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform)
 **Domain:** Cybersecurity
 
 Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, AI Copilot, and attack-to-defense sandbox replay.
-
-**Tech:** `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Docker`
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-49.8%25-7B68EE?style=flat-square)
@@ -142,8 +140,6 @@ Enterprise Account Security Platform with real-time login monitoring, geolocatio
 **Domain:** Project Management
 
 Intelligent project health reporting agent leveraging deterministic RAG status scoring, LLM sentiment analysis, and an executive PowerPoint generator.
-
-**Tech:** `TypeScript` `Python` `FastAPI` `React` `LLMs`
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-53.6%25-7B68EE?style=flat-square)
@@ -161,8 +157,6 @@ Intelligent project health reporting agent leveraging deterministic RAG status s
 
 Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction.
 
-**Tech:** `FastAPI` `TypeScript` `NLP` `OpenCV` `Python`
-
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-83.9%25-7B68EE?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-13.0%25-FFD43B?style=flat-square&logoColor=black)
@@ -176,8 +170,6 @@ Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powere
 **Domain:** Climate & Disaster Management
 
 AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). Presented at NASSCOM Confluence 2025.
-
-**Tech:** `Python` `Machine Learning` `FastAPI` `TypeScript`
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-73.7%25-7B68EE?style=flat-square)
@@ -194,8 +186,6 @@ AI-Powered Disaster Risk Prediction System built on historical weather/satellite
 **Domain:** Maritime Transportation
 
 Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for fuel-efficient route optimization.
-
-**Tech:** `TypeScript` `Python` `AI` `FastAPI`
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-91.5%25-7B68EE?style=flat-square)
