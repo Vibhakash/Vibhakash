@@ -117,13 +117,97 @@
 
 ## 🚀 Featured Projects
 
-| Project | Domain | Description | Technologies |
-| :--- | :--- | :--- | :--- |
-| **[ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform-HackDevengers-1.0)** | Cybersecurity | Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, AI Copilot, and attack-to-defense sandbox replay. | `FastAPI`, `React`, `TypeScript`, `PostgreSQL`, `Redis`, `Docker` |
-| **[ProjectPulse](https://github.com/Vibhakash/ProjectPulse-AI-Project-health-reporting-agent-with-RAG-status-system)** | Project Management | Intelligent project health reporting agent leveraging deterministic RAG status scoring, LLM sentiment analysis, and an executive PowerPoint generator. | `TypeScript`, `Python`, `FastAPI`, `React`, `LLMs` |
-| **[MedVault](https://github.com/Vibhakash/Medvault-Medical-Privacy-Protection-Pipeline-final-implementation-main)** | Healthcare | Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction. | `FastAPI`, `TypeScript`, `NLP`, `OpenCV` |
-| **[ClimaX](https://github.com/Vibhakash/ClimaX-Disaster_prediction_system)** | Climate & Disaster Management | AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). | `Python`, `Machine Learning`, `FastAPI` |
-| **[NavAIgator](https://github.com/Vibhakash/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform)** | Maritime Transportation | Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for route optimization. | `TypeScript`, `Python`, `AI` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [ShieldSphere](https://github.com/Vibhakash/ShieldSphere-Enterprise_Account_Security_Platform-HackDevengers-1.0)
+**Domain:** Cybersecurity
+
+Enterprise Account Security Platform with real-time login monitoring, geolocation tracking, AI Copilot, and attack-to-defense sandbox replay.
+
+**Tech:** `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Docker`
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-49.8%25-7B68EE?style=flat-square)
+![Python](https://img.shields.io/badge/Python-48.8%25-FFD43B?style=flat-square&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1.1%25-FF69B4?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-0.1%25-E34C26?style=flat-square)
+![JS](https://img.shields.io/badge/JS-0.1%25-E8A838?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [ProjectPulse](https://github.com/Vibhakash/ProjectPulse-AI-Project-health-reporting-agent-with-RAG-status-system)
+**Domain:** Project Management
+
+Intelligent project health reporting agent leveraging deterministic RAG status scoring, LLM sentiment analysis, and an executive PowerPoint generator.
+
+**Tech:** `TypeScript` `Python` `FastAPI` `React` `LLMs`
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-53.6%25-7B68EE?style=flat-square)
+![Python](https://img.shields.io/badge/Python-44.8%25-FFD43B?style=flat-square&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1.3%25-FF69B4?style=flat-square)
+![JS](https://img.shields.io/badge/JS-0.2%25-E8A838?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [MedVault](https://github.com/Vibhakash/Medvault-Medical-Privacy-Protection-Pipeline-final-implementation-main)
+**Domain:** Healthcare
+
+Healthcare Document Privacy Platform ensuring HIPAA compliance through AI-powered PII detection and automated redaction.
+
+**Tech:** `FastAPI` `TypeScript` `NLP` `OpenCV` `Python`
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-83.9%25-7B68EE?style=flat-square)
+![Python](https://img.shields.io/badge/Python-13.0%25-FFD43B?style=flat-square&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-2.9%25-FF69B4?style=flat-square)
+![JS](https://img.shields.io/badge/JS-0.2%25-E8A838?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ [ClimaX](https://github.com/Vibhakash/ClimaX-Disaster_prediction_system)
+**Domain:** Climate & Disaster Management
+
+AI-Powered Disaster Risk Prediction System built on historical weather/satellite datasets (88% accuracy). Presented at NASSCOM Confluence 2025.
+
+**Tech:** `Python` `Machine Learning` `FastAPI` `TypeScript`
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-73.7%25-7B68EE?style=flat-square)
+![Python](https://img.shields.io/badge/Python-25.4%25-FFD43B?style=flat-square&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-0.9%25-FF69B4?style=flat-square)
+![JS](https://img.shields.io/badge/JS-0.1%25-E8A838?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚢 [NavAIgator](https://github.com/Vibhakash/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform)
+**Domain:** Maritime Transportation
+
+Optimized Ship Routing platform using real-time data and a modified HAC-PSO algorithm for fuel-efficient route optimization.
+
+**Tech:** `TypeScript` `Python` `AI` `FastAPI`
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-91.5%25-7B68EE?style=flat-square)
+![Python](https://img.shields.io/badge/Python-5.6%25-FFD43B?style=flat-square&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-2.9%25-FF69B4?style=flat-square)
+![JS](https://img.shields.io/badge/JS-0.1%25-E8A838?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 > 💡 *Check out my repositories for more detailed READMEs, architectures, and live demos!*
 
