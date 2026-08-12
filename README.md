@@ -98,7 +98,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhakash&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibhakash&layout=compact&theme=radical&hide_border=true&count_private=true&hide=cython,c,c%2B%2B,mako,shell,powershell,dockerfile&v=7" width="48%" />
+  <img src="./assets/lang_stats.svg" alt="My Programming Languages" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibhakash&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
 
